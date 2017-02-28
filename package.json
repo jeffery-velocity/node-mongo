@@ -1,0 +1,26 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "First node project",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mob-golden/node-mongo.git"
+  },
+  "keywords": [
+    "Node",
+    "Mongo"
+  ],
+  "author": "Alfredo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mob-golden/node-mongo/issues"
+  },
+  "homepage": "https://github.com/mob-golden/node-mongo#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
